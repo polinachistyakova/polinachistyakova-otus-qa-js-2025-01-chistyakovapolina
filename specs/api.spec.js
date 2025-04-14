@@ -1,4 +1,4 @@
-//Удаление записи
+ //Удаление записи
 async function deletePost(id) {
     try {
         const baseUrl = 'https://jsonplaceholder.typicode.com/';
